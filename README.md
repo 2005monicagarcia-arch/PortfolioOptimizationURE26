@@ -81,7 +81,7 @@ This option adds U.S. sector ETF exposure.
 - Portfolio Weights
 
 ## Folder Structure
-
+```text
   portfolio-optimization-ml/
 |
 ├── literature_review/
@@ -124,3 +124,4 @@ This option adds U.S. sector ETF exposure.
 ├── README.md             ← Project overview — the front page of your repo
 ├── requirements.txt      ← List of Python packages needed (so anyone can reinstall your environment)
 └── .gitignore            ← Tells Git which files to ignore (see below)
+```
